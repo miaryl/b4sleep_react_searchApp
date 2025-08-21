@@ -42,7 +42,10 @@ function App() {
 * in this moment, not work search bar,
 just show infos from fake api
 
-## filtering function 
+
+<img width="1031" height="445" alt="Screenshot 2025-08-22 001611" src="https://github.com/user-attachments/assets/4adf8617-ccd0-4b51-86b5-cd290cbe940b" />
+
+## 2. filtering function 
 with `**`, new code
 
 ```
@@ -91,3 +94,6 @@ function App() {
   );
 }
 ```
+<img width="1017" height="279" alt="Screenshot 2025-08-22 003649" src="https://github.com/user-attachments/assets/c94d4a26-7913-4742-bd7c-b1ffbf6f73cb" />
+
+YES! it works!
